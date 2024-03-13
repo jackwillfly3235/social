@@ -1,0 +1,5 @@
+twitter-api-client
+instagrapi
+mysql-connector-python
+instaloader 
+Pillow
